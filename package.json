@@ -21,9 +21,9 @@
   "homepage": "https://eliav2.github.io/react-xarrows/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Eliav2/react-xarrows"
+    "url": "https://github.com/Proper-Finance/react-xarrows"
   },
-  "bugs": "https://github.com/Eliav2/react-xarrows/issues",
+  "bugs": "https://github.com/Proper-Finance/react-xarrows/issues",
   "dependencies": {
     "@types/prop-types": "^15.7.3",
     "lodash": "^4.17.21",
