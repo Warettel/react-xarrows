@@ -26,4 +26,3 @@ export declare const getSvgPos: (svgRef: React.MutableRefObject<any>) => {
     y: number;
 };
 export {};
-//# sourceMappingURL=index.d.ts.map

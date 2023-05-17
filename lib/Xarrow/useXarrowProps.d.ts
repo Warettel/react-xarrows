@@ -61,4 +61,3 @@ declare const useXarrowProps: (userProps: xarrowPropsType, refs: {
 }];
 export declare type useXarrowPropsResType = ReturnType<typeof useXarrowProps>;
 export default useXarrowProps;
-//# sourceMappingURL=useXarrowProps.d.ts.map

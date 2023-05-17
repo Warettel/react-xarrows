@@ -69,4 +69,3 @@ export declare type svgCustomEdgeType = {
 export declare type svgEdgeShapeType = typeof cArrowShapes[number];
 export declare type svgEdgeType = svgEdgeShapeType | svgCustomEdgeType;
 export declare type svgElemType = typeof cSvgElems[number];
-//# sourceMappingURL=types.d.ts.map

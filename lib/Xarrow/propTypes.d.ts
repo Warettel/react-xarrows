@@ -75,4 +75,3 @@ declare const XarrowPropTypes: {
     _cpy2Offset: PT.Requireable<number>;
 };
 export default XarrowPropTypes;
-//# sourceMappingURL=propTypes.d.ts.map

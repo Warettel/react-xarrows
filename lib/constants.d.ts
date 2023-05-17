@@ -17,4 +17,3 @@ export declare const arrowShapes: {
     };
 };
 export declare const cArrowShapes: ("arrow1" | "heart" | "circle")[];
-//# sourceMappingURL=constants.d.ts.map

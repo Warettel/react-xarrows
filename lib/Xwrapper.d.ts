@@ -5,4 +5,3 @@ declare const Xwrapper: ({ children }: {
     children: any;
 }) => JSX.Element;
 export default Xwrapper;
-//# sourceMappingURL=Xwrapper.d.ts.map

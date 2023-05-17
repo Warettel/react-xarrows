@@ -5,4 +5,3 @@ export declare const calcAnchors: (anchors: anchorCustomPositionType[], anchorPo
     y: any;
     anchor: anchorCustomPositionType;
 }[];
-//# sourceMappingURL=anchors.d.ts.map

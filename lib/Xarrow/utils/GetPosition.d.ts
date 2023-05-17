@@ -118,4 +118,3 @@ export declare const getPosition: (xProps: readonly [{
     fTailSize: number;
     arrowPath: any;
 };
-//# sourceMappingURL=GetPosition.d.ts.map
